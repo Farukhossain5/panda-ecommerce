@@ -1,0 +1,23 @@
+.panda-bg-info{
+    background: #fceae8;
+}
+.panda-btn{
+    background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 8px;
+    color: #ffff;
+    border: none;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.category img{
+width: 100px;
+}
+.bg-orange{
+    background: #ffa500;
+}
+.bg-pink{
+    background: #da70d6;
+}
+.bg-blue{
+    background: #0000ff;
+}
